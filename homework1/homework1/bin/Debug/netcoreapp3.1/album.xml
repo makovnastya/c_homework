@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Album xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Mad Rush</Name>
+  <Songs>
+    <Song>
+      <Name>Mad Rush</Name>
+      <Genre>
+        <string>Instrumental</string>
+      </Genre>
+      <Year>1989</Year>
+      <Composer>
+        <Composer>
+          <Name>Philip</Name>
+          <Last_name>Glass</Last_name>
+        </Composer>
+      </Composer>
+    </Song>
+  </Songs>
+  <Year>2015</Year>
+</Album>
